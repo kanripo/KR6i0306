@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:02.623420
+#+DATE: 2015-08-30 20:16:04.626738
 #+TITLE: 金光明經文句
 #+PROPERTY: CBETA_ID T39n1785
 #+PROPERTY: ID KR6i0306
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 39, No. 1785
 #+PROPERTY: VOL 39
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6i0306_T_000-0046b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0306_T_002-0053a> 
 #+PROPERTY: JUAN 2
 ¶
-
- 金光明經文句卷第二¶
+金光明經文句卷第二¶
 ¶
 隋天台智者大師說¶
 門人灌頂錄¶
@@ -62,11 +61,7 @@
 明寂滅將深以結淺。經文繡密見之者寡(云云)。¶
 護世四王下敘流通中品。皆如上說。¶
 
-釋壽量品
-:PROPERTIES:
-:head: 釋壽量品
-:END:
-¶
+釋壽量品¶
 
 佛本無身無壽。亦無於量。隨順世間而論三¶
 身。亦隨順世間而論三壽量。法身者。師軌法¶
