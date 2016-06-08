@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:02.687505
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:20
 #+TITLE: 金光明經文句
 #+PROPERTY: CBETA_ID T39n1785
 #+PROPERTY: ID KR6i0306
@@ -18,7 +18,7 @@
 隋天台智者大師說¶
 門人灌頂錄¶
 
-釋空品
+* 釋空品
 :PROPERTIES:
 :head: 釋空品
 :END:

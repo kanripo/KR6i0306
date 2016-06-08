@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:16:02.623420
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:20
 #+TITLE: 金光明經文句
 #+PROPERTY: CBETA_ID T39n1785
 #+PROPERTY: ID KR6i0306
@@ -62,7 +62,7 @@
 明寂滅將深以結淺。經文繡密見之者寡(云云)。¶
 護世四王下敘流通中品。皆如上說。¶
 
-釋壽量品
+* 釋壽量品
 :PROPERTIES:
 :head: 釋壽量品
 :END:
